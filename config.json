@@ -1,0 +1,4 @@
+{
+    "output_file": "output.txt",
+    "exit_phrases": ["stop", "exit", "end program"]
+}
